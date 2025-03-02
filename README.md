@@ -1,4 +1,4 @@
-# Fundies (Fundamentals of Computer Science 1) - Racket Projects  
+# Fundamentals of Computer Science 1 - Northeastern University
 
 ## Overview  
 This repository contains my **Fundamentals of Computer Science 1 (Fundies)** assignments and projects written in **Racket**. 
